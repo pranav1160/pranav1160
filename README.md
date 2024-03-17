@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/@pranav_1160_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pranav_1160_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranav _" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav _" height="30" width="40" /></a>
-<a href="https://instagram.com/@pranav_san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pranav_san" height="30" width="40" /></a>
+<a href="https://instagram.com/pranav__san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav__san" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranav_1160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranav_1160" height="30" width="40" /></a>
 </p>
 
