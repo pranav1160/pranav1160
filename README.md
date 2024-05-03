@@ -1,6 +1,6 @@
-[![MasterHead](https://www.giantfreakinrobot.com/wp-content/uploads/2023/09/Toji-Fushiguro-jujutsu-kaisen-1-1320x711.jpg)](https://pranav1160.io)
+[![MasterHead](https://i.pinimg.com/originals/ae/88/db/ae88dbae7c61de18a5f4a7a335e733f4.jpg)](https://pranav1160.io)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate developer and learner from India</h3>
+<h3 align="center">Welcome to my Creations</h3>
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-104.gif">
 
 
