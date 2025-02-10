@@ -1,28 +1,68 @@
+Here's a GitHub profile README tailored to your skills and interests in iOS (Swift, SwiftUI), Docker, Vapor, and Python:
 
-<h1 align="center">Hola! This is Pranav</h1>
-<h3 align="center">Welcome to my Creations</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-104.gif">
+---
 
-
-<p align="left"> <a href="https://twitter.com/@pranav_1160_" target="blank"><img src="https://img.shields.io/twitter/follow/@pranav_1160_?logo=twitter&style=for-the-badge" alt="@pranav_1160_" /></a> </p>
-
-- 💬 Ask me about **react node.js express.js**
-
-- 📫 How to reach me **pranav1160ly@gmail.com**
-
-- ⚡ Fun fact **I make people smile**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@pranav_1160_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pranav_1160_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranav _" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav _" height="30" width="40" /></a>
-<a href="https://instagram.com/pranav__san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav__san" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranav_1160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranav_1160" height="30" width="40" /></a>
+<p align="center">
+    <img width="200" src="https://github.com/your-username/your-username/blob/main/profile.png">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<h1> Hello, Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav1160&show_icons=true&locale=en&layout=compact" alt="pranav1160" /></p>
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
+[![Github](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav1160&show_icons=true&locale=en" alt="pranav1160" /></p>
+<div size='20px'>Hi! I'm [Your Name]. Thank you for visiting my GitHub profile! 😊  
+</div>
+
+<h2> About Me <img src="https://media.giphy.com/media/eXbNCXfdOIirH7VwJh/giphy.gif" width="100px"></h2>
+
+<img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/1xk9SiIqyBybUrPh2U/giphy.gif" />
+
+- 🚀 I specialize in **iOS Development** using **Swift** and **SwiftUI**.  
+- 🛠️ I'm experienced with **Docker** and **Vapor** for server-side Swift.  
+- 🐍 I enjoy building tools and projects using **Python**.  
+- 🌱 Currently exploring **Swift Data** and advanced **SwiftUI animations**.  
+- 💬 Ask me about iOS app architecture, Docker containers, and Vapor-based APIs.  
+- 🎯 Fun fact: I love building sleek, minimalist UIs and automating workflows!
+
+---
+
+<h2> Tech Stack <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
+
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swiftui/swiftui-original.svg" alt="SwiftUI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+<h2> Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"></h2>
+
+<p>
+    <a href="https://www.linkedin.com/in/your-profile/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+    <a href="https://twitter.com/your-profile" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" height="40"/></a>
+    <a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
+    <a href="https://github.com/your-username" target="_blank"><img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical) | ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=your-username&theme=radical) |
+
+---
+
+<p align="center">
+    <i>✨ Let's build something amazing together! ✨</i>
+</p>
+
+--- 
+
+Replace `your-username` and other placeholders with your actual details. Let me know if you'd like further edits! 🚀
