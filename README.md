@@ -1,31 +1,31 @@
-Here's a GitHub profile README tailored to your skills and interests in iOS (Swift, SwiftUI), Docker, Vapor, and Python:
+Here's an updated README tailored to align more with your focus as an iOS developer, including additional tools like PostgreSQL, Python, and Pygame:
 
 ---
 
 <p align="center">
-    <img width="200" src="https://github.com/your-username/your-username/blob/main/profile.png">
+    <img width="200" src="https://github.com/pranav1160/pranav1160/blob/main/profile.png">
 </p>
 
 <h1> Hello, Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
-[![Github](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=pranav1160.pranav1160)
+[![Github](https://img.shields.io/github/followers/pranav1160?label=Follow&style=social)](https://github.com/pranav1160)
 
-<div size='20px'>Hi! I'm [Your Name]. Thank you for visiting my GitHub profile! 😊  
+<div size='20px'>Hi! I'm Pranav. Thank you for visiting my GitHub profile! 😊  
 </div>
 
 <h2> About Me <img src="https://media.giphy.com/media/eXbNCXfdOIirH7VwJh/giphy.gif" width="100px"></h2>
 
 <img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/1xk9SiIqyBybUrPh2U/giphy.gif" />
 
-- 🚀 I specialize in **iOS Development** using **Swift** and **SwiftUI**.  
-- 🛠️ I'm experienced with **Docker** and **Vapor** for server-side Swift.  
-- 🐍 I enjoy building tools and projects using **Python**.  
-- 🌱 Currently exploring **Swift Data** and advanced **SwiftUI animations**.  
-- 💬 Ask me about iOS app architecture, Docker containers, and Vapor-based APIs.  
-- 🎯 Fun fact: I love building sleek, minimalist UIs and automating workflows!
+- 🚀 I specialize in **iOS Development** using **Swift** and **Docker-based** backends.  
+- 🛠️ Proficient with **Vapor**, **PostgreSQL**, and **server-side Swift**.  
+- 🐍 I enjoy building tools and fun projects using **Python** and **Pygame**.  
+- 🌱 Currently exploring **advanced database management** and **iOS app architecture patterns**.  
+- 💬 Ask me about iOS development, REST APIs, and backend integrations.  
+- 🎯 Fun fact: I love creating apps with seamless design and robust performance!  
 
 ---
 
@@ -33,11 +33,11 @@ Here's a GitHub profile README tailored to your skills and interests in iOS (Swi
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swiftui/swiftui-original.svg" alt="SwiftUI" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pygame/pygame-original.svg" alt="Pygame" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
@@ -45,17 +45,17 @@ Here's a GitHub profile README tailored to your skills and interests in iOS (Swi
 <h2> Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"></h2>
 
 <p>
-    <a href="https://www.linkedin.com/in/your-profile/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-    <a href="https://twitter.com/your-profile" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" height="40"/></a>
-    <a href="https://your-portfolio.com" target="_blank"><img alt="Portfolio" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
-    <a href="https://github.com/your-username" target="_blank"><img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
+    <a href="https://www.linkedin.com/in/pranav1160/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+    <a href="https://twitter.com/pranav1160" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" height="40"/></a>
+    <a href="https://pranav1160.github.io/" target="_blank"><img alt="Portfolio" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
+    <a href="https://github.com/pranav1160" target="_blank"><img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav1160&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranav1160&theme=radical) |
 | --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical) | ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=your-username&theme=radical) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav1160&layout=compact&theme=radical) | ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=pranav1160&theme=radical) |
 
 ---
 
@@ -63,6 +63,6 @@ Here's a GitHub profile README tailored to your skills and interests in iOS (Swi
     <i>✨ Let's build something amazing together! ✨</i>
 </p>
 
---- 
+---
 
-Replace `your-username` and other placeholders with your actual details. Let me know if you'd like further edits! 🚀
+Let me know if this aligns better with your iOS development focus! 🚀
