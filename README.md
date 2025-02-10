@@ -1,4 +1,3 @@
-Here's an updated README tailored to align more with your focus as an iOS developer, including additional tools like PostgreSQL, Python, and Pygame:
 
 ---
 
