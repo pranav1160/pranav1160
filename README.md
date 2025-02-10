@@ -1,4 +1,3 @@
-
 ---
 
 <p align="center">
@@ -15,7 +14,7 @@
 <div size='20px'>Hi! I'm Pranav. Thank you for visiting my GitHub profile! 😊  
 </div>
 
-<h2> About Me <img src="https://media.giphy.com/media/eXbNCXfdOIirH7VwJh/giphy.gif" width="100px"></h2>
+<h2> About Me <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNveHU4dGZucGt0cnkxM3YwZzQ3NHU1cGJ3MTJjaHJxbGM0dXd5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qglpf2QiuCKMU/giphy.gif" width="100px"></h2>
 
 <img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/1xk9SiIqyBybUrPh2U/giphy.gif" />
 
@@ -63,5 +62,3 @@
 </p>
 
 ---
-
-Let me know if this aligns better with your iOS development focus! 🚀
