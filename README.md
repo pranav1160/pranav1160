@@ -16,7 +16,7 @@ iOS Developer specializing in Swift and server-side development. I build robust 
 - 🔭 Currently exploring advanced database management and iOS architecture patterns
 - 🌟 Expertise in Swift, Vapor, and Docker-based deployments
 - 🛠️ Building with PostgreSQL and server-side Swift
-- 🐍 Python enthusiast, particularly for automation and game development
+- 🐍 Python enthusiast, particularly for problem solving
 - 💡 Passionate about creating performant, user-friendly applications
 
 ## 🚀 Technical Skills
@@ -42,7 +42,14 @@ struct Skills {
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav1160/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/pranav1160"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://pranav1160.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+ <a href="https://leetcode.com/u/pranav_1160/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Profile"/>
+</a>
+<a href="https://codeforces.com/profile/pranav1160">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Profile"/>
+</a>
+
+
 </p>
 
 <p align="center">
