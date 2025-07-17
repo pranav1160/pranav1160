@@ -11,7 +11,7 @@
 
 iOS Developer specializing in Swift and server-side development. I build robust mobile applications and scalable backend solutions using modern technologies and best practices.
 
-<img align="right" width="400" style="margin-left: 20px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd0YzZ0MmRkd3R6MHR5anl5OXFwem45cnJmdTFhY2drMjZxZHN5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/etTvoBi1Tr3y4vKu5T/giphy.gif" alt="Coding">
+
 
 - 🔭 Currently exploring advanced database management and iOS architecture patterns
 - 🌟 Expertise in Swift, Vapor, and Docker-based deployments
