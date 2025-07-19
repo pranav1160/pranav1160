@@ -14,7 +14,7 @@ iOS Developer specializing in Swift and server-side development. I build robust 
 
 
 - 🔭 Currently exploring advanced database management and iOS architecture patterns
-- 🌟 Expertise in Swift, Vapor, and Docker-based deployments
+- 🌟 Expertise in Swift,SwiftData, Vapor, and Docker-based deployments
 - 🛠️ Building with PostgreSQL and server-side Swift
 - 🐍 Python enthusiast, particularly for automation and game development
 - 💡 Passionate about creating performant, user-friendly applications
