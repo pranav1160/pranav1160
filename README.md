@@ -23,7 +23,7 @@ iOS Developer specializing in Swift and server-side development. I build robust 
 
 ```swift
 struct Skills {
-    let mobile = ["Swift", "UIKit", "SwiftUI"]
+    let mobile = ["Swift", "SwiftUI"]
     let backend = ["Vapor", "Docker", "PostgreSQL"]
     let tools = ["Git", "CI/CD", "REST APIs"]
     let other = ["Python", "Pygame", "System Design"]
